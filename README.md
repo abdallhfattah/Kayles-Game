@@ -1,2 +1,0 @@
-# Kayles-Game
-`
